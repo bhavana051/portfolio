@@ -149,6 +149,9 @@
         float: left;
         margin-right: 8%;
         margin-top: 7%;
+        box-shadow: -10px -10px 9px rgba(255, 255, 255, 0.45),
+        10px 10px 9px rgba(94, 104, 121, 0.3);
+    border-radius: 30px;
     }
     .description{
         margin-left: 5%;
