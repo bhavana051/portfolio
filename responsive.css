@@ -1,8 +1,12 @@
-@media (max-width:990px) {
+@media (max-width:993px) {
+    .container-fluid{
+        width: 100%;
+    }
     .navigation {
         border: 1px solid lightcoral;
         box-shadow: 5px 5px lightcoral;
         width: 80%;
+        
 
     }
 
@@ -64,20 +68,23 @@
         float: left;
     }
     .icons{
-        width: 970%;
+        width: 100%;
         margin-left: 0px;
+        margin-top: 3%;
     }
     
     .icons button{
-        width: 120px;
+        width: 150px;
         font-size: 15px;
         border: 3px solid black;
-        font-style: italic;
+       text-align: center;
+        margin-top: 5%;
     }
 
     .pic img {
         /* margin-left: 9%; */
         margin-top: 40px;
+        width: 300px;
     }
 
     .description {
